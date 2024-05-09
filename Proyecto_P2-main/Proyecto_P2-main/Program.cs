@@ -8,7 +8,7 @@ namespace persona_herencia
 
     //LEONARDO LOPEZ VILLEGAS DI22138
     //UNIVERSIDAD DASC
-    //INTENTO 1 
+    //INTENTO 1  //hola
     // FECHA : 08/05/2024
 {
     class Persona //CLASE PADRE
@@ -135,5 +135,5 @@ namespace persona_herencia
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
-    }
+    }//holaaa pp
 } 
